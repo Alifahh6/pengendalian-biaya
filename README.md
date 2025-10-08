@@ -1,3 +1,9 @@
+# OLEH:
+NAMA : ALIFAH NURUL FITRIYANI
+NIM : 24091397136
+KELAS : 2024D
+MATA KULIAH : BASIS DATA LANJUT
+
 # Pengendalian Biaya - Praktik 4 (PHP + PDO + Bootstrap)
 Project sederhana untuk menampilkan hasil query SQL (GROUP BY, HAVING, SUM, AVG, MAX, MIN) menggunakan PHP (PDO) dan Bootstrap.
 
